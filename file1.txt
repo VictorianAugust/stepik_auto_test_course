@@ -2,4 +2,4 @@ string_1
 
 string_2
 
-string 3
+string 3.
