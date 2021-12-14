@@ -1,6 +1,7 @@
 string_1
 
 not_empty
+empty string
 
 string 3
 
